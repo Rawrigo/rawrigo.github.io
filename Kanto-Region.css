@@ -1,0 +1,98 @@
+body {
+  background-image: url("hotel-wallpaper.png");
+  width:800px;
+  height: 70px;
+  
+}
+
+div {
+  color: black;
+  font-family: cursive;
+  font-size: 24px;
+  
+  
+}
+a:link {
+  font-size: 20px;
+  background-color: red;
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+  font-family: cursive;
+  border-radius: 9px;
+}
+a:visited {
+  color: white;
+  background-color: blue;
+}
+a:hover {
+  color: white;
+  background-color: firebrick;
+}
+a:active {
+  color: white;
+  background-color: darkred;
+}
+
+p  {
+  color: black;
+  font-family: cursive;
+  font-size: 23px;
+  
+}
+
+ h1 {
+   font-family:"Courier New", Courier, monospace;
+   color: red;
+   font-style: italic;
+   font-size: 50px;
+   text-decoration: underline overline dotted red;
+   text-align: left;
+ }
+ h2 {
+  font-family: cursive;
+  color: black;
+  font-style: italic;
+  text-decoration: underline overline;
+  font-size:30px; 
+   
+ }
+
+#charmander {
+ position: relative;
+ top: -1500px;
+}
+#charmeleon {
+ position: relative;
+ top: -2250px;
+left: 500px;
+}
+#charizard {
+  position: relative;
+  top: -2995px;
+  left: 950px;
+}
+#ivysaur {
+  position: relative;
+  left: 500px;
+  top: -730px;
+}
+#venusaur {
+  position: relative;
+  left: 950px;
+  top: -1480px;
+  }
+#squirtle {
+  position: relative;
+  top: -3000px;
+}
+#wartortle {
+  position: relative;
+  left: 500px;
+  top: -3760px;
+}
+#blastoise {
+  position: relative;
+  left: 1000px;
+  top: -4515px;
+}
